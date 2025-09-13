@@ -96,7 +96,6 @@ msc_thesis_analysis/
    git clone https://github.com/yourusername/regional-trade-agreements-ecowas-comesa.git
    cd regional-trade-agreements-ecowas-comesa
    ```
-
 2. Install required packages:
 
    ```r
@@ -173,18 +172,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this code or analysis in your research, please cite:
 
-```bibtex
-@mastersthesis{osei-owusu2017,
-  title={The Impact of Regional Trade Agreements on Trade Flows: The Case of ECOWAS and COMESA},
-  author={Albert Kwame Osei-Owusu},
-  institution={Your University},
-  year={2017}
-}
+```
+Osei-Owusu, A. K. (2017). *The impact of regional trade agreements on trade flows: The case of ECOWAS and COMESA* [Master's thesis].
 ```
 
 ## 📞 Contact
 
-**Author**: Albert Kwame Osei-Owusu  
+**Author**: Albert Kwame Osei-Owusu
 **Email**: `ako@riitas-consult.org`
 
 ---
