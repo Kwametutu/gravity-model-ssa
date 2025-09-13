@@ -1,0 +1,32 @@
+# Data files (these should not be committed to GitHub)
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.RData
+
+# R files
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results and outputs
+results/
+tables/
+figures/
+plots/
+
+# Large data files
+data/
+raw_data/
