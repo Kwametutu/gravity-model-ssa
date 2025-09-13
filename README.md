@@ -172,9 +172,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this code or analysis in your research, please cite:
 
-```
-Osei-Owusu, A. K. (2017). *The impact of regional trade agreements on trade flows: The case of ECOWAS and COMESA* [Master's thesis].
-```
+**APA Citation:**
+> Osei-Owusu, A. K. (2017). *The impact of regional trade agreements on trade flows: The case of ECOWAS and COMESA* [Master's thesis].
 
 ## 📞 Contact
 
